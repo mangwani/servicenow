@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_104368_cicd_ecs_artifact">x_104368_cicd_ecs_artifact</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>ART</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-10 10:47:42</sys_created_on>
+        <sys_id>a28b68bc07122010f945f16c7c1ed03a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ART</sys_name>
+        <sys_package display_value="CICD_ECS" source="x_104368_cicd_ecs">239ae87c07122010f945f16c7c1ed0ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CICD_ECS">239ae87c07122010f945f16c7c1ed0ce</sys_scope>
+        <sys_update_name>sys_number_a28b68bc07122010f945f16c7c1ed03a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-10 10:47:42</sys_updated_on>
+    </sys_number>
+</record_update>

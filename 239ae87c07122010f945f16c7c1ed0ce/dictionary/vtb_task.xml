@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Private Task" max_length="40" name="vtb_task" sizeclass="0" text_index="true" type="collection">
+        <element choice="3" display="true" label="Category" max_length="20" name="x_104368_cicd_ecs_category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Change" sequence="1" value="change"/>
+                <element inactive_on_update="false" label="Incident" sequence="2" value="incident"/>
+                <element inactive_on_update="false" label="Problem" sequence="3" value="problem"/>
+            </choice>
+        </element>
+    </element>
+</database>

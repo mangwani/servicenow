@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Artifact" max_length="40" name="x_104368_cicd_ecs_artifact" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Generic Artifact" max_length="4000" name="generic_artifact" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="ID" max_length="40" name="number" type="string"/>
+        <element label="State" max_length="40" name="state" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Tool Name" max_length="40" name="tool_name" type="string"/>
+    </element>
+</database>
